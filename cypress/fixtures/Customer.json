@@ -1,0 +1,19 @@
+[
+    {
+        "customername1": "Hermoine Granger",
+        "customername2":  "Harry Potter",
+        "customername3":  "Ron Weasly",
+        "customername4":  "Albus Dumbledore"
+    },
+    {
+        "currencyselect1": "1001",
+        "currencyselect2": "1005",
+        "currencyselect3": "1004",
+        "currencyselect4": "1006"
+    },
+    {
+        "withdrawl1": "100",
+        "withdrawl2": "6000"
+        
+    }
+]
